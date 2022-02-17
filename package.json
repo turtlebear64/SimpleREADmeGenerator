@@ -1,0 +1,13 @@
+{
+  "name": "read-me-generator",
+  "version": "1.0.0",
+  "description": "Generates a README.md file for your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turtlebear64"
+  }
+}
